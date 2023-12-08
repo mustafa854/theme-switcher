@@ -1,3 +1,5 @@
+![1](https://github.com/mustafa854/theme-switcher/assets/84233282/7d3f6838-3426-489d-a9b0-5620b4ffc2d8)
+
 # Theme Switcher using React
 
 This project is a simple theme switcher React app that allows users to toggle between light and dark themes. It employs React Context API for managing theme states and utilizes Tailwind CSS for styling.
@@ -43,6 +45,10 @@ themeSwitcher/
 ```
 
 ## Demo Images <a name="demo-images"></a>
+
+![1](https://github.com/mustafa854/theme-switcher/assets/84233282/4d8adef5-a6e7-4621-aeed-463a0cc31d90)
+
+![2](https://github.com/mustafa854/theme-switcher/assets/84233282/d653a5a7-212e-4c1f-ac8d-dead76c2b968)
 
 ## Installation <a name="installation"></a>
 
